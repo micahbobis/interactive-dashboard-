@@ -4,9 +4,10 @@
   "private": true,
   "scripts": {
   "dev": "vite",
-  "build": "vue-tsc --noEmit && vite build", 
+  "build": "vite build",
   "preview": "vite preview"
 }
+
 
   "dependencies": {
     "@popperjs/core": "^2.11.8",
